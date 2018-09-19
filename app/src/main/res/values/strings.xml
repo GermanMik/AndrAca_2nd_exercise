@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lecture2_exercise</string>
+    <string name="text_type_your_message_here">message</string>
+    <string name="Content_preview_button">Preview button</string>
+    <string name="button_text_preview">Preview</string>
+    <string name="hint_text_type_your_message_here">Type your message in field..</string>
+    <string name="send_by_email_button">Send by Email button</string>
+    <string name="text_field">Text field</string>
+    <string name="text_send_by_email">Send by Email</string>
+    <string name="Text_data">TEXT_DATA</string>
+    <string name="text_email_subject">test@google.com</string>
+    <string name="text_email_title">Hello_from_Android</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_preview_page">32sp</dimen>
+    <dimen name="text_size_message">16sp</dimen>
+    <dimen name="padding_main">16dp</dimen>
+</resources>
